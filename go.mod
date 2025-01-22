@@ -1,4 +1,4 @@
-module github.com/redpanda-data/terraform-provider-redpanda
+module github.com/gene-redpanda/terraform-provider-redpanda
 
 go 1.22.4
 
